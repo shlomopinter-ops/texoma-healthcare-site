@@ -1,5 +1,3 @@
-# Texoma Healthcare Group website
+# Texoma Healthcare Group
 
-Static site served by GitHub Pages.
-
-To set the product name, company name or contact email, edit the one line in `config.js`.
+Site source. Previous version preserved at /v1/ and git tag v1.
